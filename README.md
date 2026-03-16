@@ -1,5 +1,9 @@
 Inventor, luchador y comunista a mi manera en contra de la educación, de las fronteras, de toda religión y de toda libertad.
 
+Por mera disposicion hago estos proyectos con ChatGPT, Gemini y Copilot. No busco nada exsepto visitas en mis anuncios, no más.
+
+
+
 Gears:
 http://gear-simulator-blueprint.surge.sh/
 
