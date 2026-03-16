@@ -9,16 +9,29 @@ No busco números, solo dinerito.
 Aquí van mis proyectos:
 
 Compara a quienes te quieran y quienes no, y ve sobre quién más te apoye:
+
 https://3d-caretoretrator.surge.sh/
 
+
+
 Engranajes:
+
 http://gear-simulator-blueprint.surge.sh/
 
+
+
 Puertas logicas, RAM, ROM, etc.:
+
 http://logic-calculator-blueprint.surge.sh/
 
+
+
 Resolvedor de sistemas de ecuaciones:
+
 http://calculator-blueprint.surge.sh/
 
+
+
 Simulador de circulos con gravedad:
+
 http://gravity-simulator-by-maddrcris.surge.sh/
