@@ -11,9 +11,6 @@ Aquí van mis proyectos:
 Compara a quienes te quieran y quienes no, y ve sobre quién más te apoye:
 https://3d-caretoretrator.surge.sh/
 
-Ajusta el tamaño de la pinta del muñeco:
-https://retrator.surge.sh/
-
 Engranajes:
 http://gear-simulator-blueprint.surge.sh/
 
