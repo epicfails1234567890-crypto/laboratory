@@ -8,14 +8,17 @@ No busco números, solo dinerito.
 
 Aquí van mis proyectos:
 
-Gears:
+Ajusta el tamaño de la pinta del muñeco:
+https://retrator.surge.sh/
+
+Engranajes:
 http://gear-simulator-blueprint.surge.sh/
 
-Logic gates & more:
+Puertas logicas, RAM, ROM, etc.:
 http://logic-calculator-blueprint.surge.sh/
 
-Equation System Calculator:
+Resolvedor de sistemas de ecuaciones:
 http://calculator-blueprint.surge.sh/
 
-Gravity simulator:
+Simulador de circulos con gravedad:
 http://gravity-simulator-by-maddrcris.surge.sh/
