@@ -2,7 +2,7 @@ Inventor, luchador y comunista a mi manera en contra de la educación, de las fr
 
 Por mera disposicion hago estos proyectos con ChatGPT, Gemini y Copilot. No busco nada exsepto visitas en mis anuncios, no más.
 
-
+Quien quiera ayuda sobre mis proyectos puede contactarme en donde dice "Issues", arriba y segundo a la izquierda es donde está.
 
 Gears:
 http://gear-simulator-blueprint.surge.sh/
