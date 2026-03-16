@@ -2,7 +2,7 @@ Inventor, luchador y comunista a mi manera en contra de la educación, de las fr
 
 Por mera disposicion hago estos proyectos con ChatGPT, Gemini y Copilot. No busco nada exsepto visitas en mis anuncios, no más.
 
-Quien quiera ayuda sobre mis proyectos puede contactarme en donde dice "Issues", arriba y segundo a la izquierda es donde está. Ahí le daré ayuda por discord, y si quieren insultar o inventarse lo de 'Nadie irá' me lo paso por el culo.
+Quien quiera ayuda sobre mis proyectos puede contactarme en donde dice "Issues", arriba y segundo a la izquierda es donde está. Ahí le daré ayuda por discord, y si quieren insultar o inventarse lo de 'Nadie irá' o 'Lo has hecho con ChatGPT' me lo paso por el culo.
 
 No busco números, solo dinerito.
 
