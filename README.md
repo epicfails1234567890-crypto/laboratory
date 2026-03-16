@@ -6,6 +6,8 @@ Quien quiera ayuda sobre mis proyectos puede contactarme en donde dice "Issues",
 
 No busco números, solo dinerito.
 
+Aquí van mis proyectos:
+
 Gears:
 http://gear-simulator-blueprint.surge.sh/
 
