@@ -38,6 +38,6 @@ http://gravity-simulator-by-maddrcris.surge.sh/
 
 
 
-Navega por los años de este mundo desde 2007 hasta 2026:
+Navega por los años de este mundo desde 2001 hasta 2026:
 
 http://omniatlas.surge.sh/
