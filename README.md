@@ -44,6 +44,10 @@ Ejemplo de juego sandbox:
 
 http://super-manek-web.surge.sh/
 
+Ejemplo de copia anti-arteze barata del snake:
+
+http://snake-by-mdc.surge.sh/
+
 
 
 Teoría del holocuento:
