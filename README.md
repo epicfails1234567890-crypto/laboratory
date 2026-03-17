@@ -50,12 +50,6 @@ http://snake-by-mdc.surge.sh/
 
 
 
-Teoría del holocuento:
-
-https://omniatlas.surge.sh/
-
-
-
 Clon sucio del 1010:
 
 https://1010-by-mad-dr-cris.surge.sh/
