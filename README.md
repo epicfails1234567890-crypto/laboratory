@@ -68,6 +68,6 @@ https://tetris-by-mad-dr-cris.surge.sh/
 
 
 
-Juego raro hecho por mi:
+Juego de mierda hecho por mi:
 
-blocks-by-mad-dr-cris.surge.sh
+[blocks-by-mad-dr-cris.surge.sh](http://blocks-by-mad-dr-cris.surge.sh/)
