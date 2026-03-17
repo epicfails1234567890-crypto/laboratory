@@ -43,3 +43,9 @@ http://gravity-simulator-by-maddrcris.surge.sh/
 Ejemplo de juego sandbox:
 
 http://super-manek-web.surge.sh/
+
+
+
+Mapa global histórico:
+
+https://omniatlas.surge.sh/
