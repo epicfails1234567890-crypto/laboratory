@@ -56,6 +56,12 @@ https://omniatlas.surge.sh/
 
 
 
+Clon sucio del 1010:
+
+https://1010-by-mad-dr-cris.surge.sh/
+
+
+
 Tetris sucio hecho por mi:
 
 https://tetris-by-mad-dr-cris.surge.sh/
