@@ -8,7 +8,9 @@ No busco números, solo dinerito.
 
 Aquí van mis proyectos:
 
-Compara a quienes te quieran y quienes no, y ve sobre quién más te apoye:
+
+
+Cambiale la pinta a este muñeco:
 
 https://3d-caretoretrator.surge.sh/
 
