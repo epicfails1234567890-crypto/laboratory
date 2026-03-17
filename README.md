@@ -65,3 +65,9 @@ https://1010-by-mad-dr-cris.surge.sh/
 Tetris sucio hecho por mi:
 
 https://tetris-by-mad-dr-cris.surge.sh/
+
+
+
+Juego raro hecho por mi:
+
+blocks-by-mad-dr-cris.surge.sh
