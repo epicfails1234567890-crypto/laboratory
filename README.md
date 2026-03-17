@@ -68,6 +68,12 @@ https://tetris-by-mad-dr-cris.surge.sh/
 
 
 
+Damas para maricones:
+
+http://checkers-by-mad-dr-cris.surge.sh/
+
+
+
 Juego de mierda hecho por mi:
 
 [blocks-by-mad-dr-cris.surge.sh](http://blocks-by-mad-dr-cris.surge.sh/)
