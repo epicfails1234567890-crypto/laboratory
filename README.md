@@ -44,6 +44,10 @@ Ejemplo de juego sandbox:
 
 http://super-manek-web.surge.sh/
 
+Muñeco con pinta cambiable:
+
+https://3d-caretoretrator.surge.sh/
+
 
 
 Teoría del holocuento:
