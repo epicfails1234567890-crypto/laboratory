@@ -71,3 +71,9 @@ https://tetris-by-mad-dr-cris.surge.sh/
 Juego de mierda hecho por mi:
 
 [blocks-by-mad-dr-cris.surge.sh](http://blocks-by-mad-dr-cris.surge.sh/)
+
+
+
+Serpiente 3D:
+
+http://snake3d-by-mad-dr-cris.surge.sh/
