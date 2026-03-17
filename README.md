@@ -53,3 +53,9 @@ http://snake-by-mdc.surge.sh/
 Teoría del holocuento:
 
 https://omniatlas.surge.sh/
+
+
+
+Tetris sucio hecho por mi:
+
+https://tetris-by-mad-dr-cris.surge.sh/
