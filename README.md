@@ -10,6 +10,12 @@ Aquí van mis proyectos:
 
 
 
+Mapamundi dinámico global (2007-2026).
+
+https://omniatlas.surge.sh/
+
+
+
 Cambiale la pinta a este muñeco:
 
 https://3d-caretoretrator.surge.sh/
