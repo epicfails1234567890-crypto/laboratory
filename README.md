@@ -46,6 +46,6 @@ http://super-manek-web.surge.sh/
 
 
 
-Mapa global histórico:
+Teoría del holocuento:
 
 https://omniatlas.surge.sh/
