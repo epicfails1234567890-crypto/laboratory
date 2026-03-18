@@ -30,14 +30,6 @@ Aquí van mis proyectos:
 
 [Damas para maricones.](http://checkers-by-mad-dr-cris.surge.sh/)
 
+[Juego de mierda hecho por mi.](http://blocks-by-mad-dr-cris.surge.sh/)
 
-
-Juego de mierda hecho por mi:
-
-[blocks-by-mad-dr-cris.surge.sh](http://blocks-by-mad-dr-cris.surge.sh/)
-
-
-
-anti-arteze-serpiente 3D:
-
-http://snake3d-by-mad-dr-cris.surge.sh/
+[anti-arteze-serpiente 3D.](http://snake3d-by-mad-dr-cris.surge.sh/)
