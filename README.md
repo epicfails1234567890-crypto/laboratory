@@ -24,11 +24,7 @@ Aquí van mis proyectos:
 
 [Ejemplo de copia anti-arteze barata del snake.](http://snake-by-mdc.surge.sh/)
 
-
-
-Clon sucio del 1010:
-
-https://1010-by-mad-dr-cris.surge.sh/
+[Clon sucio del 1010.](https://1010-by-mad-dr-cris.surge.sh/)
 
 
 
