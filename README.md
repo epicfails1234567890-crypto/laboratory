@@ -34,4 +34,4 @@ Aquí van mis proyectos:
 
 [Serpiente 3D.](http://snake3d-by-mad-dr-cris.surge.sh/)
 
-[Pacman 3D.](3d-pacman-by-mad-dr-cris.surge.sh)
+[Pacman 3D.](http://3d-pacman-by-mad-dr-cris.surge.sh/)
