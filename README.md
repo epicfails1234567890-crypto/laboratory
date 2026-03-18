@@ -16,15 +16,11 @@ Aquí van mis proyectos:
 
 [Puertas logicas, RAM, ROM, etc.](http://logic-calculator-blueprint.surge.sh/)
 
-
-
 [Resolvedor de sistemas de ecuaciones.](http://calculator-blueprint.surge.sh/)
 
 
 
-Simulador de circulos con gravedad:
-
-http://gravity-simulator-by-maddrcris.surge.sh/
+[Simulador de circulos con gravedad.](http://gravity-simulator-by-maddrcris.surge.sh/)
 
 
 
