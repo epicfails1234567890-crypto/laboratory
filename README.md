@@ -14,10 +14,7 @@ Aquí van mis proyectos:
 
 [Engranajes.](http://gear-simulator-blueprint.surge.sh/)
 
-
-Puertas logicas, RAM, ROM, etc.:
-
-http://logic-calculator-blueprint.surge.sh/
+[Puertas logicas, RAM, ROM, etc.](http://logic-calculator-blueprint.surge.sh/)
 
 
 
