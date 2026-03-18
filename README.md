@@ -22,16 +22,14 @@ Aquí van mis proyectos:
 
 [Ejemplo de juego sandbox.](http://super-manek-web.surge.sh/)
 
-[Ejemplo de copia anti-arteze barata del snake.](http://snake-by-mdc.surge.sh/)
+[Ejemplo de copia del snake.](http://snake-by-mdc.surge.sh/)
 
-[Clon sucio del 1010.](https://1010-by-mad-dr-cris.surge.sh/)
+[Ejemplo de clon del 1010.](https://1010-by-mad-dr-cris.surge.sh/)
 
-[Tetris sucio hecho por mi.](https://tetris-by-mad-dr-cris.surge.sh/)
+[Tetris hecho por mi.](https://tetris-by-mad-dr-cris.surge.sh/)
 
-[Damas para maricones.](http://checkers-by-mad-dr-cris.surge.sh/)
+[Damas.](http://checkers-by-mad-dr-cris.surge.sh/)
 
-[Juego de mierda hecho por mi.](http://blocks-by-mad-dr-cris.surge.sh/)
-
-[anti-arteze-serpiente 3D.](http://snake3d-by-mad-dr-cris.surge.sh/)
+[Serpiente 3D.](http://snake3d-by-mad-dr-cris.surge.sh/)
 
 (Teoría antiholocuento.)[https://omniatlas.surge.sh/]
