@@ -18,9 +18,7 @@ Aquí van mis proyectos:
 
 
 
-Resolvedor de sistemas de ecuaciones:
-
-http://calculator-blueprint.surge.sh/
+[Resolvedor de sistemas de ecuaciones.](http://calculator-blueprint.surge.sh/)
 
 
 
