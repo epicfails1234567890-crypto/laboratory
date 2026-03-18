@@ -33,3 +33,5 @@ Aquí van mis proyectos:
 [Juego de mierda hecho por mi.](http://blocks-by-mad-dr-cris.surge.sh/)
 
 [anti-arteze-serpiente 3D.](http://snake3d-by-mad-dr-cris.surge.sh/)
+
+(Teoría antiholocuento.)[https://omniatlas.surge.sh/]
