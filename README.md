@@ -74,6 +74,6 @@ Juego de mierda hecho por mi:
 
 
 
-Serpiente 3D:
+anti-arteze-serpiente 3D:
 
 http://snake3d-by-mad-dr-cris.surge.sh/
