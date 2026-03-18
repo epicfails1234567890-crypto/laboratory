@@ -33,3 +33,5 @@ Aquí van mis proyectos:
 [Damas.](http://checkers-by-mad-dr-cris.surge.sh/)
 
 [Serpiente 3D.](http://snake3d-by-mad-dr-cris.surge.sh/)
+
+[Pacman 3D.](3d-pacman-by-mad-dr-cris.surge.sh)
