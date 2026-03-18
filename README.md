@@ -31,5 +31,3 @@ Aquí van mis proyectos:
 [Damas.](http://checkers-by-mad-dr-cris.surge.sh/)
 
 [Serpiente 3D.](http://snake3d-by-mad-dr-cris.surge.sh/)
-
-(Teoría antiholocuento.)[https://omniatlas.surge.sh/]
