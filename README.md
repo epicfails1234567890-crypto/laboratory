@@ -12,12 +12,7 @@ Aquí van mis proyectos:
 
 [Cambiale la pinta a este muñeco.](https://3d-caretoretrator.surge.sh/)
 
-
-
-Engranajes:
-
-http://gear-simulator-blueprint.surge.sh/
-
+[Engranajes.](http://gear-simulator-blueprint.surge.sh/)
 
 
 Puertas logicas, RAM, ROM, etc.:
