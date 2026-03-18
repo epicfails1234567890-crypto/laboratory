@@ -8,6 +8,8 @@ No busco números, solo dinerito, pero de los anuncios, no q nadie me de nada ni
 
 Aquí van mis proyectos:
 
+[Motor con fuente de alimentación regulable.](https://github.com/epicfails1234567890-crypto/el-motor-de-la-muerte)
+
 [Teoría antiholocuento.](https://omniatlas.surge.sh/)
 
 [Cambiale la pinta a este muñeco.](https://3d-caretoretrator.surge.sh/)
