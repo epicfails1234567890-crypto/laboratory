@@ -4,7 +4,7 @@ Por mera disposicion hago estos proyectos con ChatGPT, Gemini y Copilot. No busc
 
 Quien quiera ayuda sobre mis proyectos puede contactarme en donde dice "Issues", arriba y segundo a la izquierda es donde está. Ahí le daré ayuda por discord, y si quieren difamarme o inventarse lo de 'Nadie irá' o 'Lo has hecho con ChatGPT' me lo paso por el culo.
 
-No busco números, solo dinerito.
+No busco números, solo dinerito, pero de los anuncios, no q nadie me de nada ni na.
 
 Aquí van mis proyectos:
 
