@@ -37,5 +37,3 @@ Aquí van mis proyectos:
 [Pacman 3D.](http://3d-pacman-by-mad-dr-cris.surge.sh/)
 
 [Tienda de armas a gran escala.](http://nukes.surge.sh/)
-
-[Intento de monetización](http://smb-by-mad-dr-cris.surge.sh/)
