@@ -38,4 +38,4 @@ Aquí van mis proyectos:
 
 [Tienda de armas a gran escala.](http://nukes.surge.sh/)
 
-[Hack de Super Mario Bros hecho por mí.](http://smb-by-mad-dr-cris.surge.sh/)
+[Intento de monetización](http://smb-by-mad-dr-cris.surge.sh/)
