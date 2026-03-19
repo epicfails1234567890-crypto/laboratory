@@ -37,5 +37,3 @@ Aquí van mis proyectos:
 [Pacman 3D.](http://3d-pacman-by-mad-dr-cris.surge.sh/)
 
 [Tienda de armas a gran escala.](http://nukes.surge.sh/)
-
-[El hack mas largo de Super Mario Bros hecho por mi.](https://smb-by-mad-dr-cris.surge.sh/)
