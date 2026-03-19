@@ -42,4 +42,6 @@ Aquí van mis proyectos:
 
 [Arkanoid hecho por MadDrCris...](https://arkanoid-by-mad-dr-cris.surge.sh/)
 
+[Buscaminas.](https://buscaminas-by-mad-dr-cris.surge.sh/)
+
 [MEGADAMAS](https://damas-gigante.surge.sh/)
