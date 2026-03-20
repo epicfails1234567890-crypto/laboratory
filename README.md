@@ -53,3 +53,5 @@ Aquí van mis proyectos:
 [REPOKER](http://repoquer.surge.sh/)
 
 [CRACRECROWN](http://cracrecrown.surge.sh/)
+
+[BLACKJACK](http://mdc-blackjack.surge.sh/)
